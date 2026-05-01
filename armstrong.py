@@ -1,3 +1,5 @@
+# this is a armstrong program
+
 num = 153
 temp = num
 sum = 0
